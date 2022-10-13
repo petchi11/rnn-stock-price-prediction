@@ -13,12 +13,13 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 
 ### STEP 1:
-
+Load the training and test dataset
 ### STEP 2:
-
+Prepare the dataset for training.
 ### STEP 3:
-
-Write your own steps
+Create and Train the model
+### STEP 4:
+Predict the output for the test data and compare it with the true stock price.
 
 ## PROGRAM
 
@@ -121,3 +122,4 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/105230321/195129396-81a2af5c-649b-4d18-977b-f23efa9f5543.png)
 
 ## RESULT
+  Thus, the Recurrent Neural Network model to predict the stock price is executed sucessfully.
